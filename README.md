@@ -1,13 +1,21 @@
 Spring Web App
+
 This is a basic Spring Boot web app that:
 
+
 Accepts a name parameter in the URL
+
 Displays a greeting using Thymeleaf
+
 Shows an image
+
 How to run
+
 Run the application
+
 Open your browser at:
-`http://localhost:8080/greeting?name=Rayane
+
+https://github.com/HABASHY2001/fainal-project/tree/master
 Technologies Used
 Java 21+
 Spring Boot
