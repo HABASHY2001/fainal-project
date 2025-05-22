@@ -15,7 +15,7 @@ Run the application
 
 Open your browser at:
 
-https://github.com/HABASHY2001/fainal-project/tree/master
+http://localhost:8080/
 Technologies Used
 Java 21+
 Spring Boot
